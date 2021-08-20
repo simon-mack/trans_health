@@ -36,15 +36,23 @@ The example intended audience of this analysis is the GMLA: Health Professionals
 
 ### Disparities Between Transgender and Cisgender People
 - Trans people are more likely than cis people to have poor health in every U.S. region
-- The greatest health disparities between cis and trans people are in U.S. Territories (Puerto Rico and Guam) and in the Midwest
+- The greatest health disparities between cis and trans people are in the Midwest and Northeast
 - The region with the least health disparity between cis and trans people is, surprisingly, the South
 
 
 ### Disparities Among Transgender People
-- Trans people who didn't graduate high school, earn less than $15,000 annually, or are unable to work are the most likely to have poor health
-- The age group with the poorest health is 54-65
+- Groups of trans people at the highest risk of having poor health:
+  - Didn't graduate high school
+  - Earn less than $15,000 annually
+  - Are unable to work
+  - Are age 54 to 65
+  - Are gender nonconforming
+  - Are gay
+
 - Another surprise: white, non-Hispanic trans people are more likely to have poor health than Hispanic trans people and/or trans people of color (though not by much)
-- Trans people who identified themselves as gender nonconforming were almost twice as likely to have poor health than trans men, with trans women falling in the middle
+- Trans people who are unable to work are more than 9 times as likely to have poor health than employed trans people
+- Trans people who didn’t graduate high school are almost 4 times as likely to have poor health than trans people who graduated from college or technical school
+- Gender nonconforming trans people are almost twice as likely to have poor health than trans men, with trans women falling in the middle
 - Straight trans people are less likely to have poor health than gay trans people, but are more likely to have poor health than bisexual trans people
 
 
@@ -55,10 +63,9 @@ The example intended audience of this analysis is the GMLA: Health Professionals
   - Not have a personal doctor
   - Not have had a routine checkup in the past year*
 
-- A good start to reducing these disparities would include:
-  - Focusing efforts and resources on improving the health of transgender people in U.S. Territories and the Midwest
-  - Investing resources into making sure transgender people, especially those who belong to groups with a higher risk of poor health, have knowledge of and access to trans-friendly health providers near them
-  - Investing resources into making sure transgender people, especially those with a low income or who can't work, can afford care
-
+- A good start to reducing these disparities and the others we’ve covered would include:
+  - Focusing extra efforts and resources on trans people in the Midwest and Northeast
+  - Focusing extra efforts and resources on the high risk demographic groups of trans people we covered
+  - Focusing extra efforts and resources on ensuring trans people have access to healthcare coverage and knowledgeable primary care physicians
 
 *Especially among trans people with poor health
