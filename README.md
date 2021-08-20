@@ -27,7 +27,7 @@ The example intended audience of this analysis is the GMLA: Health Professionals
 2. Cleaned and categorized data in Python
 3. Defined key measures
 4. Calculated key measures in Python
-5. Created interactive dashboard in Tableau, validating measures with Python throughout
+5. Created [interactive dashboard in Tableau](https://public.tableau.com/shared/ZF39M6W3H?:display_count=n&:origin=viz_share_link), validating measures with Python throughout
 6. Created Google Slides presentation to accompany the dashboard
 
 
